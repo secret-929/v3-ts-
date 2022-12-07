@@ -9,11 +9,6 @@ import icons from './global/register-icons' // 注册全部图标
 // 针对ElMessage和ElLoading等组件引入样式
 import 'element-plus/theme-chalk/el-message.css'
 
-
-
-
-
-
 // 1.全局注册element-plus：方便简洁
 // import ElementPlus from 'element-plus'
 // import 'element-plus/dist/index.css'
